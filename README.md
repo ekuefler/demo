@@ -7,4 +7,5 @@
 * six
 * seven
 * eight...Steve Gerrard!! Gerrard!!
-* Fernando Torres!! Liverpool number 9!!
+* Firmino
+* Salah
