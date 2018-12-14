@@ -7,4 +7,3 @@
 * six
 * seven
 * eight
-* hey
