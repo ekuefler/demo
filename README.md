@@ -8,4 +8,3 @@
 * seven
 * eight
 * hey
-* there
