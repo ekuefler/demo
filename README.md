@@ -10,4 +10,3 @@
 * Firmino
 * x
 * y
-* z
